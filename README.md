@@ -24,7 +24,7 @@ Sprint 2:
 Sprint 3:
 
 - PR review for Rebase Frontend with main branch - (https://github.com/ChicoState/PantryNode/pull/125)
-- PR review for Feature/dooar page static - (https://github.com/ChicoState/PantryNode/pull/105)
+- PR review for Feature/donor page static - (https://github.com/ChicoState/PantryNode/pull/105)
 - PR review for Feed section home view - (https://github.com/ChicoState/PantryNode/pull/99)
 - PR review for Implementation of Construct Register Success Page - (https://github.com/ChicoState/PantryNode/pull/96)
 - Pull Request for Adding formic to login page - (https://github.com/ChicoState/PantryNode/pull/121). Collaborated with register page developer-Adding formik to register page with Sandesh Sobarad(https://github.com/SANDESHSOBARAD) to implement this feature.
@@ -34,7 +34,7 @@ Sprint 3:
 
 Srpint 4:
 
-- Learned about React ypes and interface issues to check ho to implement the same in PantryNode. Was closed due to its broad functionality.
+- Learned about React types and interface issue to check how to implement the same in PantryNode. Was closed due to its broad functionality.
 
 Sprint 5:
 
